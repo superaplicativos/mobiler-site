@@ -1,51 +1,42 @@
-# Mobiler Site | Fábrica de Software para Aplicativo Tipo Uber e Aplicativo Tipo iFood
+# Mobiler | Fábrica de Software para Aplicativo Tipo Uber, Aplicativo Tipo iFood e Soluções Digitais
 
-A **Mobiler** é uma **fábrica de software** especializada em **desenvolvimento de aplicativos** sob medida para negócios digitais.
+Se você está buscando uma **fábrica de software** para criar um **aplicativo tipo Uber**, **aplicativo tipo iFood**, app de delivery, mobilidade urbana ou plataforma de serviços, a **Mobiler** pode acelerar o seu projeto com tecnologia pronta para escalar.
 
-Este repositório contém a versão estática oficial do site institucional da Mobiler, com foco em soluções como:
+## Desenvolvemos aplicativos prontos para vender e crescer
 
-- **Aplicativo tipo Uber**
-- **Aplicativo tipo iFood**
-- **Aplicativo de delivery**
-- **Aplicativo de logística**
-- **Aplicativo de serviços**
-- **Plataforma white label**
-
-## Desenvolvimento de Aplicativos com foco em escala
-
-Se você busca uma empresa para criar:
+A Mobiler é especialista em:
 
 - aplicativo tipo Uber para mobilidade urbana
 - aplicativo tipo iFood para delivery
-- app de entregas, motoboy e logística
-- software personalizado para startups e empresas
+- app de logística e entregas
+- app de serviços sob demanda
+- aplicativo white label
+- desenvolvimento de software sob medida
 
-a Mobiler entrega projeto, tecnologia e evolução contínua.
+## Por que empresas escolhem a Mobiler
 
-## Fábrica de Software Mobiler
+- time especializado em desenvolvimento de aplicativos
+- foco em performance, usabilidade e conversão
+- soluções completas para operação e crescimento
+- visão de negócio além do código
+- suporte para evolução contínua do produto
 
-A Mobiler atua como **fábrica de software para aplicativos**, oferecendo:
+## Ideal para quem quer lançar rápido com qualidade
 
-- planejamento e arquitetura do produto
-- design de experiência (UX/UI)
-- desenvolvimento mobile e web
-- integração com meios de pagamento e geolocalização
-- suporte técnico e evolução de plataforma
+Atendemos empresas, startups e empreendedores que precisam de:
 
-## Tecnologias e Soluções
+- aplicativo profissional para ganhar mercado
+- software com alto padrão visual e técnico
+- plataforma digital para gerar receita recorrente
+- parceiro tecnológico de longo prazo
 
-O site apresenta páginas e soluções para:
+## Fale com a Mobiler e tire seu projeto do papel
 
-- aplicativos white label
-- aplicativos de mobilidade urbana
-- aplicativos de delivery e marketplace
-- sistemas de gestão e operação
-- desenvolvimento de software sob demanda
+**Comercial**
 
-## Publicação
+- **+55 11 97609-6690** — **Guilherme Miranda**
+- **+55 11 99431-7886** — **Ana Mery Fernandes (Diretora Executiva)**
 
-Este projeto está preparado para publicação em **GitHub Pages**, permitindo hospedagem estática de alta performance.
+## Palavras-chave de busca
 
-## Palavras-chave estratégicas
-
-**aplicativo tipo uber, aplicativo tipo ifood, fábrica de software, desenvolvimento de aplicativos, empresa de software, app de delivery, app de mobilidade urbana, app white label, software sob medida**
+aplicativo tipo uber, aplicativo tipo ifood, fábrica de software, desenvolvimento de aplicativos, empresa de software, app de delivery, aplicativo de mobilidade urbana, aplicativo white label, software sob demanda, criação de aplicativo, fábrica de aplicativos, desenvolvimento app
